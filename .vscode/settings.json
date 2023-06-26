@@ -1,0 +1,10 @@
+{
+    "vscord.enabled": true,
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/matthew/Repos/mycsprojects/Flight_Records",
+            "binaryPath": "/home/matthew/Repos/mycsprojects/Flight_Records/flight.exe",
+            "binaryArgs": ["data.csv"]
+        }
+    ]
+}
